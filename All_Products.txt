@@ -1,0 +1,127 @@
+
+
+				***************************
+					All PRODUCTS
+				****************************
+		PID		PRODUCT NAME		PRICE
+		1		d			100
+
+					***************************
+						All PRODUCTS
+					***************************
+			PID		PRODUCT NAME		PRICE
+
+				1		Tomato			100
+				2		Mango			500
+				3		Cabbage			50
+				4		Banana			25
+				5		Grapes			70
+
+					***************************
+						All PRODUCTS
+					***************************
+			PID		PRODUCT NAME		PRICE
+
+				1		a			100
+				2		s			200
+				3		d			300
+				4		f			400
+				5		g			500
+
+					***************************
+						All PRODUCTS
+					***************************
+				PID		PRODUCT NAME		PRICE
+
+				1		a			100
+
+					***************************
+						All PRODUCTS
+					***************************
+				PID		PRODUCT NAME		PRICE
+
+				1		Wheat			100
+				2		Soyabeans			90
+				3		Corn			40
+				4		Sugarcane			300
+				5		Pulses			500
+
+					***************************
+						All PRODUCTS
+					***************************
+				PID		PRODUCT NAME			PRICE
+
+				1		Sugarcane			100
+				2		Wheat			200
+				3		Soyabeans			300
+				4		corn			40
+				5		Pulses			400
+
+					***************************
+						All PRODUCTS
+					***************************
+				PID		PRODUCT NAME		PRICE
+
+				1		Wheat			100
+				2		Pulses			400
+				3		Corn			50
+				4		Mango			700
+				5		Tomato			80
+
+					***************************
+						All PRODUCTS
+					***************************
+				PID		PRODUCT NAME		PRICE
+
+				1		Wheat			100
+				2		Pulses			400
+				3		Corn			50
+				4		Mango			1000
+				5		Tomato			80
+
+					***************************
+						All PRODUCTS
+					***************************
+				PID		PRODUCT NAME		PRICE
+
+				1		a			20000
+				2		b			40000
+
+					***************************
+						All PRODUCTS
+					***************************
+				PID		PRODUCT NAME		PRICE
+
+				1		Wheat			100
+				2		Pulses			400
+				4		Mango			1000
+				5		Tomato			80
+
+					***************************
+						All PRODUCTS
+					***************************
+				PID		PRODUCT NAME		PRICE
+
+				1		Wheat			100
+				2		Pulses			400
+				4		Mango			1000
+				5		Tomato			80
+
+					***************************
+						All PRODUCTS
+					***************************
+				PID		PRODUCT NAME		PRICE
+
+				1		Rice			100
+				2		Wheat			200
+				3		Rye			300
+				4		Corn			400
+				5		Barley			500
+
+					***************************
+						All PRODUCTS
+					***************************
+				PID		PRODUCT NAME		PRICE
+
+				1		Rice			500
+				2		Wheat			200

@@ -1,0 +1,52 @@
+
+
+				**********************
+					BUYER Login History
+				**********************
+		1 username_buyer
+
+				**********************
+				BUYER Login History
+				**********************
+		Buyer 1: Jinay
+
+				**********************
+				BUYER Login History
+				**********************
+		Buyer 1: Jinay
+
+						**********************
+						BUYER Login History
+						**********************
+						Username: Jinay
+
+						*******************
+						BUYER Login History
+						*******************
+						Username: Jinay
+
+						*******************
+						BUYER Login History
+						*******************
+						Username: jinay
+
+						*******************
+						BUYER Login History
+						*******************
+						Username: Jinay
+
+						*******************
+						BUYER Login History
+						*******************
+						Username: neel18
+
+
+						*******************
+						BUYER Login History
+						*******************
+						Username: Purav
+
+						*******************
+						BUYER Login History
+						*******************
+						Username: Jinay

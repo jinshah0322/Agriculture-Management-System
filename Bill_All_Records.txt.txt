@@ -1,0 +1,94 @@
+
+
+				*********************
+					CART
+				*********************
+
+		PID		PRODUCT NAME		QUANTITY		PRICE
+		5		J			12			8400
+									Total Price: 8400
+
+				*********************
+					CART
+				*********************
+
+		PID		PRODUCT NAME		QUANTITY		PRICE
+		1		a			10			1000
+		2		s			20			4000
+									Total Price: 5000
+
+				*********************
+					CART
+				*********************
+
+		PID		PRODUCT NAME		QUANTITY		PRICE
+		1		a			500			50000
+									Total Price: 50000
+
+				*********************
+					CART
+				*********************
+
+		PID		PRODUCT NAME		QUANTITY		PRICE
+		1		a			12			1200
+									Total Price: 1200
+
+				*********************
+					CART
+				*********************
+
+		PID		PRODUCT NAME		QUANTITY		PRICE
+		1		a			5			500
+		2		s			10			2000
+									Total Price: 2500
+
+				*********************
+					CART
+				*********************
+
+		PID		PRODUCT NAME		QUANTITY		PRICE
+		1		d			1			100
+									Total Price: 100
+
+						*********************
+							CART
+						*********************
+
+			PID		PRODUCT NAME		QUANTITY		PRICE
+			1		a			10			1000
+			2		s			20			4000
+			3		d			30			9000
+			4		f			40			16000
+			5		g			50			25000
+			1		a			15			1500
+										Total Price: 56500
+
+						*********************
+							CART
+						*********************
+
+			PID		PRODUCT NAME		QUANTITY		PRICE
+			1		Wheat			10			1000
+			2		Pulses			25			10000
+			4		Mango			20			20000
+			5		Tomato			35			2800
+										Total Price: 33800
+
+						*********************
+							CART
+						*********************
+
+			PID		PRODUCT NAME		QUANTITY		PRICE
+			1		Rice			5			1500
+			2		Wheat			10			2000
+			3		Rye			5			1500
+			4		Corn			4			1600
+										Total Price: 6600
+
+						*********************
+							CART
+						*********************
+
+			PID		PRODUCT NAME		QUANTITY		PRICE
+			2		Wheat			30			9000
+										Total Price: 9000

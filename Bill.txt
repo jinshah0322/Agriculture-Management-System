@@ -1,0 +1,9 @@
+
+
+						*********************
+							CART
+						*********************
+
+			PID		PRODUCT NAME		QUANTITY		PRICE
+			2		Wheat			30			9000
+										Total Price: 9000
